@@ -1,0 +1,6 @@
+cmdb_id,log_name,value,count
+adservice-2,log_adservice-envoy_gateway,"warning envoy config StreamAggregatedResources gRPC config stream closed: 14, transport is closing",1
+cartservice-1,log_cartservice-envoy_gateway,"warning envoy config StreamAggregatedResources gRPC config stream closed: 14, transport is closing",1
+frontend-0,log_frontend-envoy_gateway,"warning envoy config StreamAggregatedResources gRPC config stream closed: 14, transport is closing",1
+productcatalogservice-2,log_productcatalogservice-envoy_gateway,"warning envoy config StreamAggregatedResources gRPC config stream closed: 14, transport is closing",1
+recommendationservice-2,log_recommendationservice-envoy_gateway,"warning envoy config StreamAggregatedResources gRPC config stream closed: 14, transport is closing",1

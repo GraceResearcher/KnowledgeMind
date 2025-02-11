@@ -1,0 +1,73 @@
+cmdb_id,log_name,value,count
+adservice-0,log_adservice-service_application,ARNING: Failed to export spans,9
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@12137ee5,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@13398e2c,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@142890e1,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@1699dd2d,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@1871e71b,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@1cbcbc0e,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@1da8587a,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@1f256837,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@1f7a5fb0,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@21783609,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@21f0dcac,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@2576d4,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@2aceab60,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@2bfb48f,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@2e2c3956,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@34baa50d,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@379b984c,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@3af47032,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@3b4fa78e,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@3e42ce7d,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@41c2e1b5,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@432bf4e6,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@451eb67a,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@456cea64,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@45c10c1,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@45f1e306,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@4c385bff,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@4f948114,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@51e094a9,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@53860b2f,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@53b44100,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@541c9548,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@582f798c,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@59213492,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@596cc53e,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@5b9afe40,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@5bb78f50,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@5bfbd784,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@5f7804b5,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@5f827e20,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@68654bd6,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@68f43dcc,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@6b99d195,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@6d8c9df4,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@6e77ec19,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@6e8732d2,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@6f3d519a,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@70051969,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@7343ecc5,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@7361432a,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@76e4b82d,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@7dc532a7,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@7eb52868,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@7ec4aa41,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@7f371872,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@81144d6,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@82508f5,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@83d4364,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@867621a,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@a7ebd60,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@b5c4ec1,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@d9d564d,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@e2a6dca,1
+adservice-0,log_adservice-service_application,EVERE: Exception while executing runnable io.grpc.internal.ServerImpl$JumpToApplicationThreadServerStreamListener$1HalfClosed@fae9948,1
+adservice-0,log_adservice-service_application,at okio.Okio$4.newTimeoutException(Okio.java:232),9
+adservice-0,log_adservice-service_application,aused by: java.net.SocketException: Socket closed,9
+adservice-0,log_adservice-service_application,ava.lang.NullPointerException,64
+adservice-0,log_adservice-service_application,ava.net.SocketTimeoutException: timeout,9
+frontend-0,log_frontend-service_application,"severity: warning, message: failed to retrieve ads",81
+frontend-1,log_frontend-service_application,"severity: warning, message: failed to retrieve ads",42
+frontend-2,log_frontend-service_application,"severity: warning, message: failed to retrieve ads",39
